@@ -2,7 +2,7 @@
 - 17
 - Software developer/Game developer
 - ROC V.Flevoland - Almere Buiten
-- 
+
 
 <!---
 Fieliks/Fieliks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
